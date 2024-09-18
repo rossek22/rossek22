@@ -4,4 +4,3 @@
 - 💞️ Сейчас я занимаюсь скриптингом на Denizen
 - 📫 Мои данные
 - 😄 Discord - rossek2
-- ⚡ VK - vk.com/arampal
