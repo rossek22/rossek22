@@ -14,7 +14,7 @@
 
 
 - 🔭 Сейчас работаю над своими Minecraft-плагинами и NextJS сайтами
-- 🌱 Учу **Java** и развиваю свои навыки
+- 🌱 Учусь писать плагины на **Java** и развиваю свои навыки
 - 🧠 Люблю делать крутые штуки на Java и автоматизировать всё, что можно  
 - ⚡ Факт: **пишу плагин — забываю кушать**
 
@@ -48,8 +48,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rossek22&show_icons=true&locale=ru&layout=compact&theme=radical" alt="Rossek22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rossek22&show_icons=true&locale=ru&theme=radical" alt="Rossek22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rossek22&theme=radical" alt="Rossek22" /></p>
 
 ---
 
