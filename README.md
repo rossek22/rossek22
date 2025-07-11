@@ -1,8 +1,12 @@
 <h1 align="center">Привет, я Rossek2 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 <h3 align="center">Я разработчик из 🇬🇪 Грузии</h3>
 
-<p align="left">
+
+<p algin="left">
 <img src="https://komarev.com/ghpvc/?username=Rossek2&label=Profile%20views&color=0e75b6&style=flat" alt="Rossek2" />
+</p>
+
+<p align="left">
 <a href="#"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows"></a>
 <a href="#"><img src="https://img.shields.io/badge/AMD-Radeon-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white" alt="AMD"></a>
 </p>
