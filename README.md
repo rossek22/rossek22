@@ -1,6 +1,1 @@
-- 👋 Привет, я @rossek22
-- 👀 Я занимаюсь програмированием на Denizen
-- 🌱 Я сейчас учу такие языки как Kotlin
-- 💞️ Сейчас я занимаюсь скриптингом на Denizen
-- 📫 Мои данные
-- 😄 Discord - rossek2
+![](https://komarev.com/ghpvc/?username=rossek22)
