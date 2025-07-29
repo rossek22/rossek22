@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows"></a>
+<a href="#"><img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows"></a>
 <a href="#"><img src="https://img.shields.io/badge/AMD-Radeon-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white" alt="AMD"></a>
 </p>
 
