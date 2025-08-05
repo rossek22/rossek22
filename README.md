@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=24&pause=10000&color=000000&center=true&vCenter=true&width=600&lines=Привет%2C+я+Rossek2+%F0%9F%91%8B;Я+Frontend-разработчик+из+Грузии+%F0%9F%87%AC%F0%9F%87%AA;Я+разработчик+Minecraft-серверов+%F0%9F%94%A5" alt="Typing SVG" />
+  Привет👋 я Rossek2
 </h2>
 
 
