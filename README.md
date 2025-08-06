@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rossek22&label=Просмотры%20профиля&color=0e75b6&style=flat-square" alt="rossek22" />
+  <img src="https://komarev.com/ghpvc/?username=rossek22&color=0e75b6&style=flat-square" alt="rossek22" />
 </p>
 
 ---
