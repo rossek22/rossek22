@@ -14,8 +14,8 @@
 ### 💻 Моя система
 
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/Windows%20Вас не должно ебать-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows"></a>
-<a href="#"><img src="https://img.shields.io/badge/Nvidia-gtx?style=for-the-badge&logo=nvidia&logoColor=white" alt="AMD"></a>
+<a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"></a>
+<a href="#"><img src="https://img.shields.io/badge/Nvidia-gtx?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"></a>
 </p>
 
 ---
