@@ -88,6 +88,5 @@
 ### 📊 GitHub Статистика
 
 <p style="display: flex; gap: 5px;">
-  <img src="https://stats.hyo.dev/stats/Rossek22" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rossek22&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats"/>
+  <img src="[https://stats.hyo.dev/stats/Rossek22](https://stats.hyo.dev/api/github-stats-advanced?login=Rossek2)" alt="GitStats" />
 </p>
