@@ -88,5 +88,5 @@
 ### 📊 GitHub Статистика
 
 <p style="display: flex; gap: 5px;">
-  <img src="[https://stats.hyo.dev/stats/Rossek22](https://stats.hyo.dev/api/github-stats-advanced?login=Rossek2)" alt="GitStats" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Rossek2" alt="GitStats" />
 </p>
