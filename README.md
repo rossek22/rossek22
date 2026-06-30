@@ -28,7 +28,7 @@
 
 - 🔧 Сейчас работаю над сайтом Minecraft-сервера [Astrum](https://www.astrums.pro)
 - 🌱 Изучаю: **Java**, **Kotlin**, **Python**
-- 💼 Мои проекты: [rsek2.ru](https://rsek2.ru) *(в разработке)*
+- 💼 Мои проекты: [rossek2.ru](https://rossek2.ru) *(в разработке)*
 - 📬 Контакты: **@rossek2** ([Discord](https://discord.com/users/755126477443301447) & [Telegram](https://t.me/rossek2))
 
 ---
